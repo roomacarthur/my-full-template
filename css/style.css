@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #939397;
+  font-family: verdana;
+}
+nav ul {
+  list-style: none;
+  background-color: #4a4a4f;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  margin: 2.5%;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+nav a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+.card {
+  float: left;
+  width: 20%;
+  margin-left: 10%;
+}
+.card a {
+  text-align: center;
+}
+img {
+  width: 100%;
+  height: 150px;
+}
+h2 {
+  text-align: center;
+}
